@@ -18,6 +18,9 @@ You'll find notebooks, scripts, and reports that reflect my interests in statist
 
 - [IMDB analysis](https://github.com/akil000/IMDB-analysis) – opis (R).
 - [Food classification model](https://github.com/akil000/Food-classification-model) - opis (Python).
+- [MVP and CML analyzer](https://github.com/MatMgl/mvp-and-cml-analyzer) - tool for calculating and visualizing MVP and CML based on two risky assets and a risk-free rate; python; 2023
+
+
 
 
 
