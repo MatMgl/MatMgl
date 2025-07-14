@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+**Niektóre z moich projektów:**
+
+- [Projekt 1](https://github.com/akil000/IMDB-analysis) – Opis, np. aplikacja do zarządzania zadaniami.
+- [Projekt 2](link-do-repo) – Opis, np. API do analizy tekstu.
+
+
+
 <!--
 **MatMgl/MatMgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
