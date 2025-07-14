@@ -16,6 +16,10 @@ You'll find notebooks, scripts, and reports that reflect my interests in statist
 
 ## 📌 Featured Projects
 
+- [Weibull Survival Analysis](https://github.com/MatMgl/weibull-survival-analysis)  
+  A parametric survival analysis using the Weibull model to compare treatment effects in biomedical data, including estimation, visualization, and hypothesis testing.  
+  *Course:* Statistical Analysis of Biomedical Data · *Language:* 📘 R · *Year:* 2025
+
 - [Unbiased Test for the Exponential Distribution](https://github.com/MatMgl/unbiased-test-exponential)  
   A final project implementing the most powerful unbiased test for exponential distributions with empirical power analysis.  
   *Course:* Testing Statistical Hypotheses · *Language:* 📘 R · *Year:* 2025
