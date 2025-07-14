@@ -17,7 +17,8 @@ You'll find notebooks, scripts, and reports that reflect my interests in statist
 
 ## 📌 Featured Projects
 
-- [IMDB-analysis](https://github.com/akil000/IMDB-analysis) – Exploratory data analysis of IMDB movie ratings with visualizations and summary statistics (R).
+- [IMDB analysis](https://github.com/akil000/IMDB-analysis) – opis (R).
+- [Food classification model](https://github.com/akil000/Food-classification-model) - opis (Python).
 
 
 
