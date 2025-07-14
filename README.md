@@ -19,6 +19,7 @@ You'll find notebooks, scripts, and reports that reflect my interests in statist
 - [IMDB analysis](https://github.com/akil000/IMDB-analysis) – The project involved creating a classifier capable of automatically detecting the sentiment of movie reviews (positive or negative) using the Naive Bayes method; Introduction to data analysis; R; 2024
 - [Food classification model](https://github.com/akil000/Food-classification-model) - The project involves the classification of selected Indian and Western appetizers using Convolutional Neural Networks (CNNs); Neural networks and deep learning; python; 2024
 - [MVP and CML analyzer](https://github.com/MatMgl/mvp-and-cml-analyzer) - tool for calculating and visualizing MVP and CML based on two risky assets and a risk-free rate; Portfolio Theory and Risk Management; python; 2023
+- [Introduction to R – Final Project](https://github.com/MatMgl/introduction-to-r-final-project) - A final project for an Introduction to R course featuring Barnsley fern fractal simulation and wind data analysis; R; 2024
 
 
 
