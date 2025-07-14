@@ -18,7 +18,6 @@ You'll find notebooks, scripts, and reports that reflect my interests in statist
 ## 📌 Featured Projects
 
 - [IMDB-analysis](https://github.com/akil000/IMDB-analysis) – Exploratory data analysis of IMDB movie ratings with visualizations and summary statistics (R).
-- [Student-Performance-ML](https://github.com/example/student-performance-ml) – Predictive model for student exam scores using regression techniques (Python).
 
 
 
