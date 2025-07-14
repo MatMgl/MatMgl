@@ -16,6 +16,10 @@ You'll find notebooks, scripts, and reports that reflect my interests in statist
 
 ## 📌 Featured Projects
 
+- [Corporate Credit Risk PD Prediction](https://github.com/TwojLogin/corporate-credit-risk-pd)  
+  Modeling the probability of default (PD) for Middle-Market corporate clients using logistic, probit, and linear regression models.  
+  *Course:* Modelling Market Risk · *Language:* 📘 R · *Year:* 2025
+
 - [Weibull Survival Analysis](https://github.com/MatMgl/weibull-survival-analysis)  
   A parametric survival analysis using the Weibull model to compare treatment effects in biomedical data, including estimation, visualization, and hypothesis testing.  
   *Course:* Statistical Analysis of Biomedical Data · *Language:* 📘 R · *Year:* 2025
