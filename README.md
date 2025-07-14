@@ -16,6 +16,10 @@ You'll find notebooks, scripts, and reports that reflect my interests in statist
 
 ## 📌 Featured Projects
 
+- [Unbiased Test for the Exponential Distribution](https://github.com/MatMgl/unbiased-test-exponential)  
+  A final project implementing the most powerful unbiased test for exponential distributions with empirical power analysis.  
+  *Course:* Testing Statistical Hypotheses · *Language:* 📘 R · *Year:* 2025
+
 - [IMDB Analysis](https://github.com/akil000/IMDB-analysis)  
   A sentiment analysis classifier for movie reviews, built using the Naive Bayes algorithm.  
   *Course:* Introduction to Data Analysis · *Language:* 📘 R · *Year:* 2024
