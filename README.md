@@ -16,7 +16,7 @@ You'll find notebooks, scripts, and reports that reflect my interests in statist
 
 ## 📌 Featured Projects
 
-- [Corporate Credit Risk PD Prediction](https://github.com/TwojLogin/corporate-credit-risk-pd)  
+- [Corporate Credit Risk PD Prediction](https://github.com/MatMgl/corporate-credit-risk-pd)  
   Modeling the probability of default (PD) for Middle-Market corporate clients using logistic, probit, and linear regression models.  
   *Course:* Modelling Market Risk · *Language:* 📘 R · *Year:* 2025
 
