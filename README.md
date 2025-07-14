@@ -2,7 +2,7 @@
 
 **Niektóre z moich projektów:**
 
-- [Projekt 1](https://github.com/akil000/IMDB-analysis) – Opis, np. aplikacja do zarządzania zadaniami.
+- [IMDB-analysis](https://github.com/akil000/IMDB-analysis) – Opis, np. aplikacja do zarządzania zadaniami.
 - [Projekt 2](link-do-repo) – Opis, np. API do analizy tekstu.
 
 
