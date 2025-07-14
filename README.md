@@ -9,18 +9,18 @@ You'll often find me working on projects that involve statistical reasoning, mod
 
 ## 📁 About This Profile
 
-<!-- To be added soon -->
+This GitHub profile serves as a portfolio of my academic projects completed during my studies.  
+The projects mainly focus on **data analysis**, **statistics**, and **machine learning**, using programming languages such as **R** and **Python**.
+
+You'll find notebooks, scripts, and reports that reflect my interests in statistical methods, data-driven insights, and practical applications of mathematical thinking.
 
 
+## 📌 Featured Projects
+
+- [IMDB-analysis](https://github.com/akil000/IMDB-analysis) – Exploratory data analysis of IMDB movie ratings with visualizations and summary statistics (R).
+- [Student-Performance-ML](https://github.com/example/student-performance-ml) – Predictive model for student exam scores using regression techniques (Python).
 
 
-
-
-
-**Niektóre z moich projektów:**
-
-- [IMDB-analysis](https://github.com/akil000/IMDB-analysis) – Opis, np. aplikacja do zarządzania zadaniami.
-- [Projekt 2](link-do-repo) – Opis, np. API do analizy tekstu.
 
 
 
