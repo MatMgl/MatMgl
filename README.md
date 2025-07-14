@@ -18,22 +18,30 @@ You'll find notebooks, scripts, and reports that reflect my interests in statist
 
 - [IMDB Analysis](https://github.com/akil000/IMDB-analysis)  
   A sentiment analysis classifier for movie reviews, built using the Naive Bayes algorithm.  
-  *Topic:* Introduction to Data Analysis · *Language:* 📘 R · *Year:* 2024
+  *Course:* Introduction to Data Analysis · *Language:* 📘 R · *Year:* 2024
 
 - [Food Classification Model](https://github.com/akil000/Food-classification-model)  
   A Convolutional Neural Network (CNN) trained to classify selected Indian and Western appetizers.  
-  *Topic:* Neural Networks & Deep Learning · *Language:* 🐍 Python · *Year:* 2024
+  *Course:* Neural Networks & Deep Learning · *Language:* 🐍 Python · *Year:* 2024
 
 - [Introduction to R – Final Project](https://github.com/MatMgl/introduction-to-r-final-project)  
   Final project featuring a simulation of the Barnsley fern fractal and wind data analysis using base R and tidyverse.  
-  *Topic:* Introductory R Programming · *Language:* 📘 R · *Year:* 2024
+  *Course:* Introductory R Programming · *Language:* 📘 R · *Year:* 2024
 
 - [MVP and CML Analyzer](https://github.com/MatMgl/mvp-and-cml-analyzer)  
   A Python tool for calculating and visualizing the Minimum Variance Portfolio (MVP) and Capital Market Line (CML) based on two risky assets and a risk-free rate.  
-  *Topic:* Portfolio Theory & Risk Management · *Language:* 🐍 Python · *Year:* 2023
+  *Course:* Portfolio Theory & Risk Management · *Language:* 🐍 Python · *Year:* 2023
 
 
+<!--
+## 📌 Featured Projects
 
+- [IMDB analysis](https://github.com/akil000/IMDB-analysis) – The project involved creating a classifier capable of automatically detecting the sentiment of movie reviews (positive or negative) using the Naive Bayes method; Introduction to data analysis; R; 2024
+- [Food classification model](https://github.com/akil000/Food-classification-model) - The project involves the classification of selected Indian and Western appetizers using Convolutional Neural Networks (CNNs); Neural networks and deep learning; python; 2024
+- [MVP and CML analyzer](https://github.com/MatMgl/mvp-and-cml-analyzer) - tool for calculating and visualizing MVP and CML based on two risky assets and a risk-free rate; Portfolio Theory and Risk Management; python; 2023
+- [Introduction to R – Final Project](https://github.com/MatMgl/introduction-to-r-final-project) - A final project for an Introduction to R course featuring Barnsley fern fractal simulation and wind data analysis; R; 2024;
+
+-->
 
 
 
