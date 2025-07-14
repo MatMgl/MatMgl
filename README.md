@@ -23,6 +23,10 @@ You'll find notebooks, scripts, and reports that reflect my interests in statist
 - [Unbiased Test for the Exponential Distribution](https://github.com/MatMgl/unbiased-test-exponential)  
   A final project implementing the most powerful unbiased test for exponential distributions with empirical power analysis.  
   *Course:* Testing Statistical Hypotheses · *Language:* 📘 R · *Year:* 2025
+  
+- [Time Series Forecasting and Noise Modeling](https://github.com/MatMgl/ts-passengers-wind-analysis)  
+  A two-part project including passenger number forecasting using ARIMA and seasonal noise modeling of Delhi wind speed data with periodogram analysis.  
+  *Course:* Time Series Analysis · *Language:* 📘 R · *Year:* 2025 
 
 - [IMDB Analysis](https://github.com/akil000/IMDB-analysis)  
   A sentiment analysis classifier for movie reviews, built using the Naive Bayes algorithm.  
