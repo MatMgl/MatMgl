@@ -5,7 +5,6 @@
 I'm a mathematician with a Master's degree and a strong interest in data analysis, statistics, and statistical hypothesis testing.  
 I enjoy exploring data, drawing meaningful insights, and building tools using **R** and **Python**.
 
-You'll often find me working on projects that involve statistical reasoning, modeling, and automation through code.
 
 ## 📁 About This Profile
 
