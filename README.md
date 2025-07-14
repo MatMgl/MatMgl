@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Mateusz
+<h1 align="center">Hi there! 👋 I'm Mateusz</h1>
 
 ## 🧠 About Me
 
