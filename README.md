@@ -28,7 +28,7 @@ You'll find notebooks, scripts, and reports that reflect my interests in statist
   A final project implementing the most powerful unbiased test for exponential distributions with empirical power analysis.  
   *Course:* Testing Statistical Hypotheses · *Language:* 📘 R · *Year:* 2025
 
-- [Skoda Price Prediction](skoda-price-prediction)  
+- [Skoda Price Prediction](https://github.com/MatMgl/skoda-price-prediction)  
   A comprehensive regression modeling project estimating used Škoda car prices using statistical learning and machine learning methods. Includes linear models, regularization, PCA/PLS, trees, and ensembles.  
   *Course:* Statistical Learning in Practice · *Language:* 📘 R · *Year:* 2025
 
