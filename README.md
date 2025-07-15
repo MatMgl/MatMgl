@@ -28,6 +28,10 @@ You'll find notebooks, scripts, and reports that reflect my interests in statist
   A final project implementing the most powerful unbiased test for exponential distributions with empirical power analysis.  
   *Course:* Testing Statistical Hypotheses · *Language:* 📘 R · *Year:* 2025
 
+- [Skoda Price Prediction](skoda-price-prediction)  
+  A comprehensive regression modeling project estimating used Škoda car prices using statistical learning and machine learning methods. Includes linear models, regularization, PCA/PLS, trees, and ensembles.  
+  *Course:* Statistical Learning in Practice · *Language:* 📘 R · *Year:* 2025
+
 - [Qualitative Health Analysis](https://github.com/MatMgl/qualitative-health-analysis)  
   Logistic regression models for predicting medical visits based on health survey data (NPHA 2017). Includes variable selection, residual analysis, and model evaluation.  
   *Course:* Qualitative Data Analysis · *Language:* 📘 R · *Year:* 2025
